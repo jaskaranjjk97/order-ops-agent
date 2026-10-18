@@ -1,0 +1,19 @@
+{
+  "products": {
+    "wedding_invitation": {
+      "name": "Wedding Invitation",
+      "unit_price": 25.0,
+      "min_quantity": 50
+    },
+    "flyer": {
+      "name": "Promotional Flyer",
+      "unit_price": 5.0,
+      "min_quantity": 100
+    },
+    "flex_banner": {
+      "name": "Flex Banner",
+      "unit_price": 80.0,
+      "min_quantity": 1
+    }
+  }
+}
