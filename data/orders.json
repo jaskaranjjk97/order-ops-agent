@@ -1,3 +1,55 @@
 {
-    "existing_orders": []
+    "existing_orders": [
+        {
+            "order_id": "34c6f02c-d8f8-4783-a562-3ab3dc69ab23",
+            "order_details": {
+                "product_id": "wedding_invitation",
+                "quantity": 100
+            },
+            "quote": {
+                "product_id": "wedding_invitation",
+                "product_name": "Wedding Invitation",
+                "quantity": 100,
+                "unit_price": 25.0,
+                "subtotal": 2500.0,
+                "total": 2500.0,
+                "currency": "INR"
+            },
+            "approval_status": "approved"
+        },
+        {
+            "order_id": "2d5637ac-5486-49d7-970d-344e1a2a0f7b",
+            "order_details": {
+                "product_id": "wedding_invitation",
+                "quantity": 100
+            },
+            "quote": {
+                "product_id": "wedding_invitation",
+                "product_name": "Wedding Invitation",
+                "quantity": 100,
+                "unit_price": 25.0,
+                "subtotal": 2500.0,
+                "total": 2500.0,
+                "currency": "INR"
+            },
+            "approval_status": "approved"
+        },
+        {
+            "order_id": "6da8c7c3-c1f3-4291-97a6-cbdea14b9927",
+            "order_details": {
+                "product_id": "flex_banner",
+                "quantity": 20
+            },
+            "quote": {
+                "product_id": "flex_banner",
+                "product_name": "Flex Banner",
+                "quantity": 20,
+                "unit_price": 80.0,
+                "subtotal": 1600.0,
+                "total": 1600.0,
+                "currency": "INR"
+            },
+            "approval_status": "approved"
+        }
+    ]
 }
